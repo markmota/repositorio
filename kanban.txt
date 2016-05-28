@@ -1,0 +1,24 @@
+Kanban
+
+No nace como un método ágil
+Ni se crea para software, es más orientado a lineas de producción centradas en el dar más importancia a lo que el cliente considera valioso, reduciendo todo lo demás
+Se puede usar en conjunto con Scrum, por que solo hace adecuaciones al flujo de trabajo operativo, es decir únicamente pone reglas al numero de actividades que se pueden estar atendiendo y la forma en la que pasan al estado de terminadas. Scrum define mas cosas como la organización, los roles, prioridad de las tareas, tiempos de entrega totales, segmentación de lapsos para producir.
+Cada elemento del tablero puede ser una tarea o una historia de usuario, siempre y cuando sea consistente. Se hacen listas de pendiente, en proceso y listo en general con la diferencia que aquí se pone un límite de items por lista. Definido por la capacidad del equipo de trabajo.
+Puede agregar columnas de nueva solicitud, y aprobada para que el dueño del producto pueda manejar status de sus requerimentos e incluso descartarlos antes de liberarlos para ser desarrollados.
+
+Las tareas las ingresa a un flujo de trabajo continuo, dejando que cada actor tome la decisión de tomar la tarea y hacerla de acuerdo a sus tiempos y evita tiempos muertos de asignación y la autogestión individual evita que el desarrollador se sienta sobre cargado de trabajo o tenga tiempos muertos
+
+Permite cambios de prioridad durante la etapa de nuevo requerimiento y aprobado
+
+Compartir habilidades para resolver una tarea o apoyar en la resolución de la tarea. Esto permite que el equipo se responsabilice del flujo de las tareas
+SE apoya en cuadros de control que muestra el tiempo y el promedio de tiempo del equipo  y el diagrama de flujo sobre lo acumulado muestra el numero de tareas en cada estado
+
+No puedes mejorar lo que no ves
+
+A que nos ayuda_
+- Visualizar el trabajo:  Ver en que esta trabajando cada quien, tareas escondidas, cuanto falta por trabajar 
+- Registra el flujo de trabajo: Identifica la etapa en la que se encuentra cada tarea y como va el flujo de tareas hacia la culminación delas mismas.
+- Métricas: Se puede medir el flujo de trabajo y la distribución del mismo, con el fin de que la parte administrativa pueda identificar problemas de distribución de trabajo, eficiencia del equipo y los individuos que lo componen y también conforme pasan los proyectos, hacer mejores estimaciones.
+- De cada tarea se puede ver: quíen esta trabajando en ella, alguna categoría de la tarea, estimado de la fecha de entrega
+- Limita el trabajo que se esta haciendo: Mantiene las tareas manejables, no te deja tomar mas de lo que puedes atender y anima al equipo a apoyarse en las tareas, fomenta a priorizar resolver que a atender. WIP
+- Se puede trabajar tener una línea de producción express: Para manejar casos especiales urgentes, limitado a una sola tarea en toda la linea.
